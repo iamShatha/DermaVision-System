@@ -1,5 +1,5 @@
 # DermaVision-System
-Software engineering project: AI-powered system using deep learning and computer vision to analyze skin conditions and recommend skincare products.
+Collaborated in a team to manage and coordinate a project for developing an AI-powered system using deep learning and computer vision to analyze skin conditions and recommend skincare products, focusing on requirements analysis, documentation, and applying Agile methodology for workflow management.
 
 AI-Powered Beauty App
 
